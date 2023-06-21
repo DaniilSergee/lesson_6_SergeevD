@@ -1,5 +1,5 @@
 public enum WeaponType {
-    BLADE,
+    BOW,
     GUN,
-    ROCKET
+    ARBALEST
 }
